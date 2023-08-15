@@ -24,5 +24,11 @@
     },
     "editor.codeActionsOnSave": {
         "source.organizeLinkDefinitions": true
-    }
+    },
+    "gitlens.statusBar.format": "${author}, ${agoOrDate}${' via 'pullRequest} ${authorNotYou}",
+    "gitlens.changes.toggleMode": "file",
+    "gitlens.graph.dimMergeCommits": true,
+    "gitlens.graph.showRemoteNames": true,
+    "gitlens.views.repositories.showIncomingActivity": true,
+    "gitlens.views.contributors.showAllBranches": true
 }
